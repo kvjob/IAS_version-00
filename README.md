@@ -14,4 +14,4 @@
 
 #### The trained segmentation network
 
-Dowload the trained model from the link:
+Dowload the trained model from the [link](http://65.49.81.102/w/pspResnet152V0.0.pth)
